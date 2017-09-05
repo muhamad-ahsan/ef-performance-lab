@@ -1,2 +1,2 @@
-# ef-performance-lab
-Project to demonstrate the performance gain using stored procedure with Entity Framework
+# About
+This repository is for the demonstration of the performance gain using **Stored Procedures** with Entity Framework which is described at [Stored Procedures with Entity Framework - Performance Benchmark](http://bit.ly/2iBkUYT).
